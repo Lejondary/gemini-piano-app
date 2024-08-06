@@ -196,7 +196,7 @@ List the resources you found helpful and would like to credit.
 This section addresses frequently asked questions. 
 -->
 
-<div style="text-align: right"><a href="#top-of-page">Back to Top</a></div>
+<div style="text-align:right"><a href="#top-of-page">Back to Top</a></div>
 
 <!-- BADGES AND LINKS -->
 
