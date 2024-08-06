@@ -1,7 +1,3 @@
-<!--
-A README template for projects.
--->
-
 <a id="top-of-page"></a>
 
 <!-- PROJECT LOGO -->
@@ -10,7 +6,7 @@ A README template for projects.
 <img src="assets/img/logo.gif" alt="logo" width="200" height="auto" />
 
 <!-- PROJECT TITLE -->
-# Project Title <!-- omit from toc -->
+# Gemini Piano App <!-- omit from toc -->
 
 <!-- PROJECT DESCRIPTION-->
 Project Description
@@ -21,6 +17,22 @@ Project Description
 [![wakatime][wakatime-badge]][wakatime-url]
 
 </div>
+
+# TODO
+
+- [ ] define project scope
+    - [ ] project overview
+    - [ ] outline features
+    - [ ] determine target audience
+- [ ] define project requirements
+    - [ ] determine input formats
+    - [ ] determine output formats
+    - [ ] specify hand positioning features
+- [ ] define tech stack
+    - [ ] programming languages
+    - [ ] relevant libraries
+    - [ ] dependencies
+    - [ ] gcp deployment services
 
 <!-- TABLE OF CONTENTS -->
 # Table of Contents <!-- omit from toc -->
@@ -60,6 +72,7 @@ Provide screenshots or a demo showcasing the project.
 <!-- 
 Explain the key features of the project. 
 -->
+
 ## Getting Started
 
 <!--
@@ -124,6 +137,7 @@ Explain any configuration options available to customize the project's behavior.
 
 <!--(if applicable)-->
 ### Performance Considerations <!-- omit from toc -->
+
 <!--
 Highlight performance-related considerations and provide tips for optimizing the application.
 -->
