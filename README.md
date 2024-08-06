@@ -18,22 +18,6 @@ Project Description
 
 </div>
 
-# TODO
-
-- [ ] define project scope
-    - [ ] project overview
-    - [ ] outline features
-    - [ ] determine target audience
-- [ ] define project requirements
-    - [ ] determine input formats
-    - [ ] determine output formats
-    - [ ] specify hand positioning features
-- [ ] define tech stack
-    - [ ] programming languages
-    - [ ] relevant libraries
-    - [ ] dependencies
-    - [ ] gcp deployment services
-
 <!-- TABLE OF CONTENTS -->
 # Table of Contents <!-- omit from toc -->
 
@@ -54,6 +38,7 @@ Project Description
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 - [FAQ](#faq)
+- [TODO](#todo)
 
 ## Overview
 
@@ -195,6 +180,22 @@ List the resources you found helpful and would like to credit.
 <!--
 This section addresses frequently asked questions. 
 -->
+
+# TODO
+
+- [ ] define project scope
+    - [ ] project overview
+    - [ ] outline features
+    - [ ] determine target audience
+- [ ] define project requirements
+    - [ ] determine input formats
+    - [ ] determine output formats
+    - [ ] specify hand positioning features
+- [ ] define tech stack
+    - [ ] programming languages
+    - [ ] relevant libraries
+    - [ ] dependencies
+    - [ ] gcp deployment services
 
 <div align="right"><a href="#top-of-page">Back to Top</a></div>
 
