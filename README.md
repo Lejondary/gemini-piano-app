@@ -9,7 +9,7 @@
 # Gemini Piano App <!-- omit from toc -->
 
 <!-- PROJECT DESCRIPTION-->
-Project Description
+An application developed with Google's generative ai model, Gemini, to listen to music and transcribe it in real-time.
 
 <!-- BADGES -->
 
