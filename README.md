@@ -9,7 +9,7 @@
 # Gemini Piano App <!-- omit from toc -->
 
 <!-- PROJECT DESCRIPTION-->
-An application developed with Google's generative ai model, Gemini, to listen to music and transcribe it in real-time.
+An application developed with Google's generative ai model, Gemini, to recognize music and transcribe it in real-time.
 
 <!-- BADGES -->
 
@@ -46,6 +46,8 @@ An application developed with Google's generative ai model, Gemini, to listen to
 Provide a brief introduction to the project, outlining its purpose, scope, and target audience. Mention the key features and benefits of the project.
 -->
 
+Gemini Piano App is a user-friendly music transcription application that converts audio recordings into sheet music in real-time. It is intended to assist beginner and intermediate pianists, music students, educators, and music lovers to quickly learn new melodies to practice piano.
+
 ### Demo <!-- omit from toc -->
 
 <!--
@@ -57,6 +59,12 @@ Provide screenshots or a demo showcasing the project.
 <!-- 
 Explain the key features of the project. 
 -->
+
+- Note recognition
+- Pitch detection
+- Real-time transcription into standard music notation
+- Google Gemini powered music identification
+- Google Cloud Platform integration
 
 ## Getting Started
 
